@@ -1,0 +1,2 @@
+rootProject.name='Slot booking system'
+include ':app'
